@@ -1,0 +1,74 @@
+.btn-my-primary{
+    border-radius: 8px;
+    background: #B68C5A;
+    font-family: Poppins;
+    height: 60px;
+    
+}
+.btn-my-primary:hover{
+    border-radius: 8px;
+    background: #B68C5A;
+}
+.fa-gavel{
+    color: #B68C5A;
+}
+.bg-img1{
+    background-image: url('../images/banner.png');
+    height: 600px;
+    background-size: cover;
+    border-radius: 5px
+    
+    
+    
+    
+}
+h1,h5{
+    font-family:EB Garamond;
+}
+p{
+    font-family: Poppins;
+    font-size: 16px;
+    color: #707070;
+}
+.cl{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0.00) 100%);
+}
+
+.fa-solid{
+    
+    color: #B68C5A;
+    
+    
+    
+}
+.bg-accordian{
+    background: #F3F3F3;
+}
+
+
+.slider-1{
+    background-image: url("../images/slider-1.jpg");
+    height: 500px;
+    
+    
+    
+    
+    
+    
+}
+
+
+    .position-absolute{
+        top: 25px;
+        left: 380px;
+    }
+
+
+@media only screen and (max-width:576px) {
+    .position-absolute{
+        top: 25px;
+        left: 20px;
+    }
+
+    
+}
