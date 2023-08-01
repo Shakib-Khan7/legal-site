@@ -47,7 +47,7 @@ p{
 
 
 .slider-1{
-    background-image: url("/images/slider-1.jpg");
+    background-image: url("../images/slider-1.jpg");
     height: 600px;
     
 }
