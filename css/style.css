@@ -22,7 +22,7 @@
     
     
 }
-h1,h5{
+h1,h5,h4,h3{
     font-family:EB Garamond;
 }
 p{
@@ -47,28 +47,22 @@ p{
 
 
 .slider-1{
-    background-image: url("../images/slider-1.jpg");
-    height: 500px;
-    
-    
-    
-    
-    
+    background-image: url("/images/slider-1.jpg");
+    height: 600px;
     
 }
-
-
-    .position-absolute{
-        top: 25px;
-        left: 380px;
-    }
-
-
-@media only screen and (max-width:576px) {
-    .position-absolute{
-        top: 25px;
-        left: 20px;
-    }
-
-    
+.carousel-item p{
+    color: #F3F3F3;
 }
+footer p{
+    font-size: 16px;
+    color:#CFCFCF;
+}
+.btn-f{
+    background-color: #B68C5A;
+}
+ul li{
+    list-style-type: none;
+    text-align: start;
+}
+
